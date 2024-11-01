@@ -1,1 +1,1 @@
-A simpke way to ask user input in python!!!!!!!!!!!
+A simple way to ask user input in python!!!!!!!!!!!
